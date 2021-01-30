@@ -30,7 +30,7 @@ Amritsar is in PunjabState and is the spiritual centre of the Sikh religion. It 
 | --- | ----------- | ----- |
 | Amritsar | 5  | 5000 |
 
-![Golden Temple](Images/GT1.jpg =100x).
+![Golden Temple](Images/GT1.jpg).
 
 ![Golden Temple](Images/GT2.jpg).
 
