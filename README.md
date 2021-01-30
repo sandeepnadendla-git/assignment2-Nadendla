@@ -48,12 +48,16 @@ Haridwar is an ancient city situated in the Garhwal region of Uttarakhand on the
 | --- | ----------- | ----- |
 | Himachal | 2  | 2000 |
 
+![Haridwar Temple](Images/H1.jpg). ![Haridwar Temple](Images/H2.jpg).
+
 ## 4. Chikmagalur  
 Chikmagalur in Karnataka is an exciting hill station that exhibits the best form of green nature and pleasant environment letting everyone escape from the rambunctious noises of the city with the best Chikmagalur tourist places. Sightseeing and trekking have a prominent place in the tourism sector of this tiny town which is highly blessed by the mighty Western Ghats.
 
 | Location | Spending Hours | Amount |
 | --- | ----------- | ----- |
 | Karnataka | 6  | 1000 |
+
+![Chikmagalur](Images/C1.jpg). ![Chikmagalur](Images/C2.jpg).
 
 ***
 # Favourite quotes
