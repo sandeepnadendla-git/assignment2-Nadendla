@@ -16,3 +16,5 @@ Pav bhaji is a popular street snack originating from the Indian state of Maharas
 * check wheather ride is confrimed and time slote
 * wait at place where safe ride picks you 
 * show your studentid in tapride app and process is done
+
+[About Me](https://github.com/sandeepnadendla-git/assignment2-Nadendla/blob/main/AboutMe.md)
