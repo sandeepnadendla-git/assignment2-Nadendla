@@ -50,3 +50,10 @@ Chikmagalur in Karnataka is an exciting hill station that exhibits the best form
 | Location | Spending Hours | Amount |
 | --- | ----------- | ----- |
 | Karnataka | 6  | 1000 |
+
+***
+> Arise,awake and donot stop until the goal is reached.
+*Swami Vivekananda*
+
+> If you have no critics, you’ll likely have no success.
+*Malcolm X*
