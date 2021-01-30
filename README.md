@@ -57,7 +57,7 @@ Chikmagalur in Karnataka is an exciting hill station that exhibits the best form
 | --- | ----------- | ----- |
 | Karnataka | 6  | 1000 |
 
-![Chikmagalur](Images/C1.jpg). ![Chikmagalur](Images/C2.jpg).
+![Chikmagalur](Images/c1.jpg). ![Chikmagalur](Images/c2.jpg).
 
 ***
 # Favourite quotes
