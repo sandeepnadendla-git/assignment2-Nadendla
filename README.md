@@ -30,7 +30,7 @@ Amritsar is in PunjabState and is the spiritual centre of the Sikh religion. It 
 | --- | ----------- | ----- |
 | Amritsar | 5  | 5000 |
 
-![Golden Temple](Images/GT1.jpg). ![Golden Temple](Images/GT2.jpg).
+![Golden Temple](Images/GT1.jpg). ![Golden Temple](Images/GT2.jpeg).
 
 ## 2. Mysore Palace
 Mysore Palace, also called Amba Vilas Palace, is one of the most magnificent and largest palaces in India. Situated in the southern state of Karnataka, it used to be the official residence of the Wodeyar Dynasty, the rulers of Mysore from 1399 to 1950. The grand palace stands tall in the heart of Mysore city and attracts visitors from across the world. Being one of the prime attractions in India after the Taj Mahal, it certainly deserves a place in every traveler’s bucket list.
