@@ -18,3 +18,16 @@ Pav bhaji is a popular street snack originating from the Indian state of Maharas
 * show your studentid in tapride app and process is done
 
 [Click to know about me](https://github.com/sandeepnadendla-git/assignment2-Nadendla/blob/main/AboutMe.md)
+
+***
+
+# My recomendations places to visit
+
+1. ## Golden Temple
+Amritsar is in PunjabState and is the spiritual centre of the Sikh religion. It might be surprising that the GoldenTemple, the holy Sikh temple receives more visitors than the Taj Mahal. Built in the 16th Century, it is located in a beautiful and spectacular complex. When inside the GoldenTemple, one is well aware of the reverence paid to it by all visitors.
+
+| Location | Spending Hours | Amount |
+| --- | ----------- | ----- |
+| Golden Temple | 5  | 5000 |
+
+
