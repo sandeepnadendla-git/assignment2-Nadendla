@@ -58,3 +58,26 @@ Chikmagalur in Karnataka is an exciting hill station that exhibits the best form
 
 > If you have no critics, you’ll likely have no success.
 *Malcolm X*
+
+***
+
+# About Sql
+
+> SQL is Structured Query Language, which is a computer language for storing, manipulating and retrieving data stored in a relational database. SQL is the standard language for Relational Database System. All the Relational Database Management Systems (RDMS) like MySQL, MS Access, Oracle, Sybase, Informix, Postgres and SQL Server use SQL as their standard database language.
+
+Quick link to sql <https://www.w3schools.com/sql/default.asp>
+
+``` 
+CREATE TABLE Persons (
+    ID int NOT NULL PRIMARY KEY,
+    LastName varchar(255) NOT NULL,
+    FirstName varchar(255),
+    Age int
+);
+
+```
+Quick link to CODE <https://www.w3schools.com/sql/sql_primarykey.asp>
+
+
+
+
