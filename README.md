@@ -28,14 +28,14 @@ Amritsar is in PunjabState and is the spiritual centre of the Sikh religion. It 
 
 | Location | Spending Hours | Amount |
 | --- | ----------- | ----- |
-| Golden Temple | 5  | 5000 |
+| Amritsar | 5  | 5000 |
 
 ## 2. Mysore Palace
 Mysore Palace, also called Amba Vilas Palace, is one of the most magnificent and largest palaces in India. Situated in the southern state of Karnataka, it used to be the official residence of the Wodeyar Dynasty, the rulers of Mysore from 1399 to 1950. The grand palace stands tall in the heart of Mysore city and attracts visitors from across the world. Being one of the prime attractions in India after the Taj Mahal, it certainly deserves a place in every traveler’s bucket list.
 
 | Location | Spending Hours | Amount |
 | --- | ----------- | ----- |
-| Mysore Palace | 4  | 1000 |
+| Mysore | 4  | 1000 |
 
 ## 3. Haridwar Temple
 Haridwar is an ancient city situated in the Garhwal region of Uttarakhand on the banks of the holy river Ganga and is a land of legends and myths. It is considered to be one of the sacred places to visit in India and is the gateway to the Char Dham trek comprising Badrinath, Kedarnath, Gangotri, and Yamunotri. Beautifully nestled in the heart of Uttarakhand, the city houses popular temples and shrines.
@@ -52,6 +52,7 @@ Chikmagalur in Karnataka is an exciting hill station that exhibits the best form
 | Karnataka | 6  | 1000 |
 
 ***
+
 > Arise,awake and donot stop until the goal is reached.
 *Swami Vivekananda*
 
