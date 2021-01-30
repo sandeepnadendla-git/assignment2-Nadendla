@@ -39,7 +39,7 @@ Mysore Palace, also called Amba Vilas Palace, is one of the most magnificent and
 | --- | ----------- | ----- |
 | Mysore | 4  | 1000 |
 
-![Mysore Palace](Images/M1.jpeg). ![Golden Temple](Images/M2.jpeg).
+![Mysore Palace](Images/M1.jpg). ![Golden Temple](Images/M2.jpg).
 
 ## 3. Haridwar Temple
 Haridwar is an ancient city situated in the Garhwal region of Uttarakhand on the banks of the holy river Ganga and is a land of legends and myths. It is considered to be one of the sacred places to visit in India and is the gateway to the Char Dham trek comprising Badrinath, Kedarnath, Gangotri, and Yamunotri. Beautifully nestled in the heart of Uttarakhand, the city houses popular temples and shrines.
