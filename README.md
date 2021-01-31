@@ -11,9 +11,9 @@ Pav bhaji is a popular street snack originating from the Indian state of Maharas
 2. Open Taperide App and select college Northwest missouri state university
 3. Now select microsoft account for login
 4. Login using studentid and password
-5. check wheather safe rides are available
-6. If availabe request ride and select pickup and drop location
-* check wheather ride is confrimed and time slote
+5. check whether safe rides are available
+      1. If available request ride and select pickup and drop location
+* check whether ride is confrimed and time slote
 * wait at place where safe ride picks you 
 * show your studentid in tapride app and process is done
 
