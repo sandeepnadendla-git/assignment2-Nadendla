@@ -12,7 +12,8 @@ Pav bhaji is a popular street snack originating from the Indian state of Maharas
 3. Now select microsoft account for login
 4. Login using studentid and password
 5. check whether safe rides are available
-      1. If available request ride and select pickup and drop location
+      1. If available request ride  
+      2. Select pickup and drop location
 * check whether ride is confrimed and time slote
 * wait at place where safe ride picks you 
 * show your studentid in tapride app and process is done
